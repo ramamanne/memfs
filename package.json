@@ -59,6 +59,7 @@
       "js",
       "jsx"
     ],
+    "testEnvironment": "node",
     "transform": {
       "^.+\\.tsx?$": "ts-jest"
     },
